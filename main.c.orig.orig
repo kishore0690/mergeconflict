@@ -11,27 +11,27 @@ Initial Security()
 }
 
 
-
-
+<<<<<<< HEAD
+=======
 feature1()
 {
  // feature1 is added
 }
 
-
+>>>>>>> feature1
 security patch()
 {
 //security patch added
 }	
 
 
-
+<<<<<<< HEAD
 feature2()
 {
  //feature2 is added	
 }	
 
-
-
+=======
+>>>>>>> feature1
 
 }
