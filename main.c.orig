@@ -1,0 +1,26 @@
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+
+Initial Security()
+{
+ //Sample Code
+}
+
+<<<<<<< HEAD
+security patch()
+{
+//security patch added
+}	
+
+=======
+feature2()
+{
+ //feature2 is added	
+}	
+>>>>>>> feature2 is added
+
+}
